@@ -1,2 +1,2 @@
 # POWE-BI
-Status report BOWER BI
+Status report POWER BI
